@@ -70,7 +70,7 @@ extern "C" {
 
 /* ---- System configuration information --------------------------------- */
 
-#include <ffitarget.h>
+#include <../src/x86/ffitarget.h>
 
 #ifndef LIBFFI_ASM
 
